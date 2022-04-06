@@ -1,5 +1,9 @@
 # MIUI-apps
 这里包含miui的部分预装软件。
+
+# To DO
+ - [] 写提取脚本
+ - [] 把脚本扔到 actions 中
 # MIUI 13 预装软件列表
 
 |||
